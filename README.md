@@ -1,4 +1,4 @@
-# Weight Loss Tracker
+# Weight Tracker
 
 This project allows users to track their weight loss progress over time. Users can add their weight and the corresponding date, view the data in a table, and visualize it in a chart (using Chart.js). The data is stored in `localStorage` so that it persists even after the page is reloaded.
 
